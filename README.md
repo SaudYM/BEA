@@ -44,6 +44,6 @@ To run the notebook:
 2. Install the necessary libraries using pip:
    ```bash
    pip install pandas matplotlib seaborn scipy numpy
-   Open the Jupyter Notebook in your environment and run each cell sequentially.
-Acknowledgements
+3. Open the Jupyter Notebook in your environment and run each cell sequentially.
+## Acknowledgements
 The dataset used in this project was obtained from Kaggle, compiled by Ikarus777, who sourced it from Wikipedia. The motivation for this analysis was inspired by personal interests and discussions on art trends.
